@@ -1,0 +1,10 @@
+# IDE / Editor
+.vscode/
+
+# Dependências
+node_modules/
+
+# Arquivos internos do projeto
+private/
+
+# Variáveis de ambiente 
